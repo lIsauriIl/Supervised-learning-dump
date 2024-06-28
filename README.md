@@ -1,0 +1,1 @@
+These are files and notebooks that I made that implemented supervised learning algorithms to make prediction models. Algorithms include linear regression, logistic regression, random forest regression, support vector machines and decision trees.
